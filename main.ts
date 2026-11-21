@@ -4,14 +4,14 @@ import { join } from "node:path";
 const MAX_CODE_POINTS = 280;
 
 const LINES: readonly string[] = [
-  "The loaves cool under linen.",
+  "Loaves cool under linen.",
   "The house is asleep.",
-  "All night the clay oven gives its warmth back to the room.",
-  "Beneath us, for four billion years,",
-  "earth has carried whole oceans",
-  "through the dark between the stars,",
-  "so gently that water in a glass on the table",
-  "never stirs.",
+  "All night the clay oven gives its heat back to the kitchen.",
+  "A glass of water stands still on the table.",
+  "Beneath floor and field,",
+  "the old earth turns through the dark,",
+  "carrying whole oceans, continents,",
+  "and this one warm room.",
 ];
 
 function buildEntryText(lines: readonly string[]): string {
