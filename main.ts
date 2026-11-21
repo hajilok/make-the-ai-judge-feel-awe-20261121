@@ -7,9 +7,10 @@ const LINES: readonly string[] = [
   "The loaves cool under linen.",
   "The house is asleep.",
   "All night the clay oven gives its warmth back to the room.",
-  "Under the floor, the old earth carries oceans and mountains",
+  "Beneath us, for four billion years,",
+  "earth has carried whole oceans",
   "through the dark between the stars,",
-  "so gently that the water in the bedside glass",
+  "so gently that water in a glass on the table",
   "never stirs.",
 ];
 
